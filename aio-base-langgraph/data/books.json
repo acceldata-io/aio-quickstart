@@ -1,0 +1,92 @@
+[
+  {
+    "book_id": "B001",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "shelf": "literary"
+  },
+  {
+    "book_id": "B002",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "shelf": "literary"
+  },
+  {
+    "book_id": "B003",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "shelf": "literary"
+  },
+  {
+    "book_id": "B004",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "shelf": "history"
+  },
+  {
+    "book_id": "B005",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "shelf": "sci-fi"
+  },
+  {
+    "book_id": "B006",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "shelf": "sci-fi"
+  },
+  {
+    "book_id": "B007",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "shelf": "sci-fi"
+  },
+  {
+    "book_id": "B008",
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "shelf": "mystery"
+  },
+  {
+    "book_id": "B009",
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "shelf": "mystery"
+  },
+  {
+    "book_id": "B010",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "shelf": "mystery"
+  },
+  {
+    "book_id": "B011",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "shelf": "history"
+  },
+  {
+    "book_id": "B012",
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "shelf": "literary"
+  },
+  {
+    "book_id": "B013",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "shelf": "sci-fi"
+  },
+  {
+    "book_id": "B014",
+    "title": "Percy Jackson and the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "shelf": "fantasy"
+  },
+  {
+  "book_id": "B015",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J. K. Rowling",
+  "shelf": "fantasy"
+}
+]

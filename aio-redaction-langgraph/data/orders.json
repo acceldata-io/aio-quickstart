@@ -1,0 +1,5 @@
+{
+  "4471": {"customer_id": "C1001", "items": ["The Midnight Library"], "total": 18.99, "status": "delayed in transit", "days_late": 6, "shipped": true},
+  "4488": {"customer_id": "C1003", "items": ["Sapiens"], "total": 24.5, "status": "delivered", "days_late": 0, "shipped": true},
+  "4502": {"customer_id": "C1002", "items": ["Dune", "Project Hail Mary"], "total": 41.0, "status": "packed, not yet shipped", "days_late": 0, "shipped": false}
+}

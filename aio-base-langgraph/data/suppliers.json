@@ -1,0 +1,17 @@
+{
+  "B001": {"supplier": "Harbour Book Distributors", "email": "orders@harbourbooks.example", "stock": 40, "lead_days": 3},
+  "B002": {"supplier": "Harbour Book Distributors", "email": "orders@harbourbooks.example", "stock": 15, "lead_days": 3},
+  "B003": {"supplier": "Harbour Book Distributors", "email": "orders@harbourbooks.example", "stock": 20, "lead_days": 3},
+  "B004": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 12, "lead_days": 5},
+  "B005": {"supplier": "Starfield Press Direct", "email": "trade@starfieldpress.example", "stock": 25, "lead_days": 2},
+  "B006": {"supplier": "Starfield Press Direct", "email": "trade@starfieldpress.example", "stock": 18, "lead_days": 2},
+  "B007": {"supplier": "Starfield Press Direct", "email": "trade@starfieldpress.example", "stock": 22, "lead_days": 2},
+  "B008": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 30, "lead_days": 4},
+  "B009": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 14, "lead_days": 4},
+  "B010": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 9, "lead_days": 4},
+  "B011": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 6, "lead_days": 5},
+  "B012": {"supplier": "Oakline Wholesale", "email": "sales@oakline-wholesale.example", "stock": 8, "lead_days": 5},
+  "B013": {"supplier": "Starfield Press Direct", "email": "trade@starfieldpress.example", "stock": 16, "lead_days": 2},
+  "B014": {"supplier": "Harbour Book Distributors", "email": "orders@harbourbooks.example", "stock": 20, "lead_days": 3},
+  "B015": {"supplier": "Harbour Book Distributors", "email": "orders@harbourbooks.example", "stock": 35, "lead_days": 3}
+}

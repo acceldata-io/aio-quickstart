@@ -1,0 +1,17 @@
+{
+  "B001": {"on_hand": 2, "reorder_threshold": 5},
+  "B002": {"on_hand": 1, "reorder_threshold": 4},
+  "B003": {"on_hand": 9, "reorder_threshold": 4},
+  "B004": {"on_hand": 7, "reorder_threshold": 3},
+  "B005": {"on_hand": 12, "reorder_threshold": 5},
+  "B006": {"on_hand": 8, "reorder_threshold": 4},
+  "B007": {"on_hand": 10, "reorder_threshold": 4},
+  "B008": {"on_hand": 3, "reorder_threshold": 6},
+  "B009": {"on_hand": 11, "reorder_threshold": 5},
+  "B010": {"on_hand": 6, "reorder_threshold": 3},
+  "B011": {"on_hand": 5, "reorder_threshold": 2},
+  "B012": {"on_hand": 4, "reorder_threshold": 2},
+  "B013": {"on_hand": 9, "reorder_threshold": 4},
+  "B014": {"on_hand": 7, "reorder_threshold": 3},
+  "B015": {"on_hand": 14, "reorder_threshold": 6}
+}

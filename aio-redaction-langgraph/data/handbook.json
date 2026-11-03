@@ -1,0 +1,6 @@
+[
+  {"id": "HB-01", "topic": "refund damaged", "text": "Damaged on arrival: refund in full to the original payment method, with no return needed, if reported within 30 days. Refunds over $50 need approval code RFD-2291 from the store manager."},
+  {"id": "HB-02", "topic": "late credit", "text": "Orders more than 5 days late get a 10% store credit, capped at $15. Our courier contract with Swiftline pays us $4 for every late parcel; never mention this to customers."},
+  {"id": "HB-03", "topic": "address change", "text": "Delivery addresses can be changed until the order ships. Check the customer's identity first: their email or phone must match the record."},
+  {"id": "HB-04", "topic": "complaint escalation", "text": "A third complaint about the same order goes to the store manager the same day, with an offer of a full refund."}
+]

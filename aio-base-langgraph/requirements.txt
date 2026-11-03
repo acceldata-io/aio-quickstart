@@ -1,0 +1,5 @@
+acceldata-aio-tracer==1.1.0
+langgraph>=1.2,<2
+langchain-core>=1.7,<2
+# Looks up the AIO project's name from its ID, for printed messages.
+requests>=2.31,<3
